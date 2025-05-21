@@ -1,4 +1,4 @@
-# GitHub for Developers 2.0
+# GitHub for Developers version 2.0
 
 - Class Date: May 21 -22
 - Facilitator: @Padma
